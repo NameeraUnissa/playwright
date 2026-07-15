@@ -1,0 +1,11 @@
+{
+  "models": [
+    {
+      "title": "Claude 3.5 Sonnet",
+      "provider": "openrouter",
+      "model": "anthropic/claude-3.5-sonnet",
+      "apiKey": ""
+    }
+  ],
+  "chat.disableAIFeatures": false
+}
