@@ -1,0 +1,17 @@
+// Single line comment
+
+
+
+/* Multi line comment 
+*/
+
+let nameera = "Irha" ;
+
+/** 
+* let name = "Irha" ;
+* console.log(name) ;
+
+* let firstName = "Khaleel" ;
+* let lastName = "Nameera" ;
+* console.log(firstName + " " + lastName) ;
+**/
